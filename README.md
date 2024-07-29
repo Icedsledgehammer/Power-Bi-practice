@@ -1,0 +1,1 @@
+When you open the .pbix file, it will show you a bar graph. The changes I have done on the blog is done on a separate page. All you have to do is click on the option transform data in the taskbar above and click on transform data again. It will take you where I was doing my work.   
